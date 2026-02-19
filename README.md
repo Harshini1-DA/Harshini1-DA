@@ -1,3 +1,4 @@
+![Banner](Black & White Modern Minimalist Data Analyst LinkedIn Banner.png)
 # 👋 Hi, I'm Harshini K
 
 🎓 MBA Graduate | 📊 Aspiring Data Analyst  
