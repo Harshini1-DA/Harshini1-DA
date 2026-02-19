@@ -1,4 +1,7 @@
-![Banner](Black & White Modern Minimalist Data Analyst LinkedIn Banner.png)
+<p align="center">
+  <img src="profile-banner.png" width="100%" />
+</p>
+
 # 👋 Hi, I'm Harshini K
 
 🎓 MBA Graduate | 📊 Aspiring Data Analyst  
