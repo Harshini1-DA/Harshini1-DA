@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Harshini 👋
 
-<!--
-**Harshini1-DA/Harshini1-DA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MBA Graduate | HR Executive | Aspiring HR Data Analyst
 
-Here are some ideas to get you started:
+I am passionate about transforming HR data into meaningful insights using Power BI and data visualization techniques. Currently building HR Analytics dashboards to support data-driven decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Power BI
+- HR Analytics
+- Data Visualization
+- Excel
+- SQL
+
+## Projects
+🔹 HR Analytics Dashboard (Power BI)  
+https://github.com/Harshini1-DA/HR-Analytics-Dashboard-PowerBI
+
+## About Me
+Experienced HR professional transitioning into HR Data Analytics with hands-on experience in dashboard creation and workforce analysis.
+
+## Contact
+📧 Email: kumarharshini12@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/harshini-k-463927278
