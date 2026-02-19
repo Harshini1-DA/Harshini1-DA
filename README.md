@@ -66,6 +66,7 @@ Developed an interactive HR Analytics dashboard to analyze workforce trends and 
 Power BI
 
 **link:**
+https://github.com/Harshini1-DA/HR-Analytics-Dashboard-PowerBI
 
 ---
 
