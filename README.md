@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile-banner.png" width="100%" />
+  <img src="https://github.com/Harshini1-DA/Harshini1-DA/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png" width="100%" />
 </p>
 
 # 👋 Hi, I'm Harshini K
