@@ -44,6 +44,9 @@ Performed exploratory data analysis on Zepto product dataset using SQL to unders
 **Tools Used:**  
 SQL
 
+**link:**
+https://github.com/Harshini1-DA/zepto_analysis
+
 ---
 
 ### 👩‍💼 HR Analytics Dashboard (Power BI Project)
@@ -61,6 +64,8 @@ Developed an interactive HR Analytics dashboard to analyze workforce trends and 
 
 **Tools Used:**  
 Power BI
+
+**link:**
 
 ---
 
